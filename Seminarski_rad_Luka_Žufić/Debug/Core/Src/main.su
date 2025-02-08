@@ -1,0 +1,13 @@
+../Core/Src/main.c:83:6:delay	16	static
+../Core/Src/main.c:90:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:103:6:otvaranje_vrata	16	static
+../Core/Src/main.c:121:6:zatvaranje_vrata	16	static
+../Core/Src/main.c:137:6:ultrazvucni	16	static
+../Core/Src/main.c:168:6:buzzer	8	static
+../Core/Src/main.c:194:6:stanje	8	static
+../Core/Src/main.c:211:6:otvaranje_bluetooth	4	static
+../Core/Src/main.c:227:6:ispis_udaljenosti	8	static
+../Core/Src/main.c:245:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:261:5:main	8	static
+../Core/Src/main.c:400:6:SystemClock_Config	88	static
+../Core/Src/main.c:451:6:Error_Handler	4	static,ignoring_inline_asm
